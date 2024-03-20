@@ -3,7 +3,7 @@ Put the resulting 'data' folder in my project directory.
 
 # Data analysis on League of Legends autobattler Teamfight Tactics.
 
-# Project walkthrough video can be found here: https://www.youtube.com/watch?v=jdAMa4aEdP4
+### Project walkthrough video can be found here: https://www.youtube.com/watch?v=jdAMa4aEdP4
 
 This data analysis project is meant to analyze and document evolving meta trends in Teamfight Tactics. This is done by utilizing the Riot Games API, and specific endpoints for unit and trait statistics, item data, match history data, and challenger player data.
 
